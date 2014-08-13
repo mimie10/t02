@@ -1,0 +1,22 @@
+.content{
+    width: 250px;	    
+    text-align: center;
+    
+}		
+
+ul {
+    text-align: left;
+    list-style-type: none;
+}
+
+#input {
+    float: left;
+}
+			
+.checkedlst{
+    text-decoration: line-through;
+}
+
+.unCheckedlst{
+    text-decoration: none;
+}
